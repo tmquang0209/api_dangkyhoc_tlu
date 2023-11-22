@@ -12,7 +12,7 @@ if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
 
 async function Login() {
     let options = {
-        headless: true,
+        headless: "new",
         args: ["--no-sandbox", "--disable-setuid-sandbox"],
     };
 
