@@ -11,7 +11,10 @@ if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
 }
 
 async function Login() {
-    let options = { args: ["--no-sandbox", "--disable-setuid-sandbox"] };
+    let options = {
+        headless: true,
+        args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    };
 
     const browser = await puppeteer.launch(options);
     let page = await browser.newPage();
