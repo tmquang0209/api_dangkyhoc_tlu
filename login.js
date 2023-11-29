@@ -12,13 +12,13 @@ if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
 
 async function Login() {
     let options = {
-        headless: "new",
+        headless: true,
         args: ["--no-sandbox", "--disable-setuid-sandbox"],
     };
 
     const browser = await puppeteer.launch(options);
     let page = await browser.newPage();
-
+    // console.log(process.env.USERNAME_ACCOUNT, process.env.PASSWORD_ACCOUNT);
     await page.goto("https://dangkyhoc.thanglong.edu.vn/");
     await page.type("#tbUserName", process.env.USERNAME_ACCOUNT);
     await page.type("#tbPassword", process.env.PASSWORD_ACCOUNT);
