@@ -4,6 +4,7 @@ require("dotenv").config();
 const { Login } = require("./login");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
+const crypto = require("crypto");
 
 //import model
 const Year = require("./models/year");
@@ -13,16 +14,8 @@ const Schedule = require("./models/schedule");
 const Enroll = require("./models/enroll");
 const { json } = require("express");
 const mergeClass = require("./components/mergeClass");
-const { secretKey } = require("./components/secretKey");
 
-const corsOptions = {
-    origin: "https://dangkyhoc-drab.vercel.app", // Replace with the actual origin of your frontend application
-    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
-    credentials: true, // Allow credentials (cookies, HTTP authentication) to be sent with requests
-    optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
-};
-
-app.use(cors(corsOptions));
+app.use(cors());
 app.use(json());
 
 mongoose
@@ -32,6 +25,13 @@ mongoose
     })
     .then(() => console.log("Connect success to Mongodb"))
     .catch((err) => console.error(err));
+
+const generateSecretKey = () => {
+    const secretKey = crypto.randomBytes(32).toString("hex");
+    return secretKey;
+};
+
+const secretKey = generateSecretKey();
 
 app.get("/tlu/getYear", async (req, res) => {
     const page = await Login();
@@ -367,6 +367,8 @@ app.get("/api/getSchedule/:semester", async (req, res) => {
 
 app.post("/api/personalSchedule", async (req, res) => {
     const { semesterId, studentCode, password } = req.body;
+
+    console.log(req.body);
 
     const hashPassword = password ? jwt.sign({ password }, secretKey) : null;
 
