@@ -15,7 +15,14 @@ const Enroll = require("./models/enroll");
 const { json } = require("express");
 const mergeClass = require("./components/mergeClass");
 
-app.use(cors());
+const corsOptions = {
+    origin: "https://dangkyhoc-drab.vercel.app", // Replace with the actual origin of your frontend application
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    credentials: true, // Allow credentials (cookies, HTTP authentication) to be sent with requests
+    optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
+};
+
+app.use(cors(corsOptions));
 app.use(json());
 
 mongoose
