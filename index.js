@@ -15,8 +15,19 @@ const Enroll = require("./models/enroll");
 const { json } = require("express");
 const mergeClass = require("./components/mergeClass");
 
+const whitelist = [
+    "https://dangkyhoc-drab.vercel.app",
+    "https://dkh.toluu.site",
+];
+
 const corsOptions = {
-    origin: "*", // Replace with the actual origin of your frontend application
+    origin: function (origin, callback) {
+        if (whitelist.indexOf(origin) !== -1) {
+            callback(null, true);
+        } else {
+            callback(new Error("Not allowed by CORS"));
+        }
+    }, // Replace with the actual origin of your frontend application
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     credentials: true, // Allow credentials (cookies, HTTP authentication) to be sent with requests
     optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
