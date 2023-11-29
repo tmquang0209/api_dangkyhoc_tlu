@@ -16,6 +16,7 @@ const mergeClass = require("./components/mergeClass");
 const { secretKey } = require("./components/secretKey");
 
 app.use(cors());
+app.options("*", cors());
 app.use(json());
 
 mongoose
