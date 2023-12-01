@@ -24,6 +24,22 @@ const enrollSchema = new mongoose.Schema({
             require: true,
         },
     ],
+    unitPrice: {
+        type: Number,
+        require: false,
+    },
+    coefList: [
+        {
+            subjectCode: {
+                type: String,
+                require: true,
+            },
+            coef: {
+                type: Number,
+                require: false,
+            },
+        },
+    ],
 });
 
 const Enroll = mongoose.model("Enroll", enrollSchema);

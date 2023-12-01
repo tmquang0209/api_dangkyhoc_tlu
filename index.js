@@ -582,6 +582,62 @@ app.get("/api/getSubjectSemester/:enrollId", async (req, res) => {
     }
 });
 
+app.post("/api/getCoefList", async (req, res) => {
+    const { enrollId, password } = req.body;
+
+    console.log(req.body);
+    try {
+        const getEnroll = await Enroll.findById(enrollId);
+        console.log(getEnroll);
+        //check password
+        if (getEnroll.password != password) {
+            return res.status(400).json({ message: "Password is incorrect." });
+        }
+        return res.json({
+            unitPrice: getEnroll.unitPrice,
+            coefList: getEnroll.coefList,
+        });
+    } catch (err) {
+        console.error(err);
+        res.status(400).json({ message: "Updating coef list failed." });
+    }
+});
+
+app.post("/api/updateCoefList", async (req, res) => {
+    const { enrollId, password, unitPrice, coefList } = req.body;
+
+    try {
+        const updatedEnroll = await Enroll.findByIdAndUpdate(
+            enrollId,
+            {
+                password,
+                unitPrice,
+                coefList: [...coefList],
+            },
+            {
+                new: true, // Return the modified document
+                runValidators: true, // Run validators for updates
+                context: "query", // Make sure to select the document for version check
+                upsert: false, // Do not create a new document if not found
+                versionKey: false, // Do not include __v field in updates
+            }
+        );
+
+        if (updatedEnroll) {
+            if (updatedEnroll.password === password) {
+                res.json({ message: "Updating coef list success." });
+            } else {
+                res.json({ message: "Access denied." });
+            }
+        } else {
+            res.json({ message: "Enroll not found." });
+        }
+    } catch (err) {
+        console.error(err);
+        res.status(400).json({ message: "Updating coef list failed." });
+    }
+});
+
 app.post("/api/addPersonalSchedule", async (req, res) => {
     const { enrollId, password, schedule } = req.body;
 
