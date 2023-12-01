@@ -386,8 +386,6 @@ app.get("/api/getSchedule/:semester", async (req, res) => {
 app.post("/api/personalSchedule", async (req, res) => {
     const { semesterId, studentCode, password } = req.body;
 
-    console.log(req.body);
-
     const hashPassword = password ? jwt.sign({ password }, secretKey) : null;
 
     try {
@@ -443,11 +441,7 @@ app.post("/api/getClassRegister", async (req, res) => {
             return;
         }
 
-        const decodePassword = getEnroll.password
-            ? jwt.decode(getEnroll.password).password
-            : "";
-
-        if (decodePassword !== jwt.decode(password).password) {
+        if (getEnroll.password !== password) {
             res.status(401).json({
                 message: "Password is incorrect.",
             });
