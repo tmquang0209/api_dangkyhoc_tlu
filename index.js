@@ -579,10 +579,8 @@ app.get("/api/getSubjectSemester/:enrollId", async (req, res) => {
 app.post("/api/getCoefList", async (req, res) => {
     const { enrollId, password } = req.body;
 
-    console.log(req.body);
     try {
         const getEnroll = await Enroll.findById(enrollId);
-        console.log(getEnroll);
         //check password
         if (getEnroll.password != password) {
             return res.status(400).json({ message: "Password is incorrect." });
