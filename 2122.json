@@ -1,0 +1,5444 @@
+[
+    {
+        "subjectCode": "AC201",
+        "subjectName": "Nguyên lý kế toán",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "AC210",
+        "subjectName": "Kế toán doanh nghiệp",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AC211",
+        "subjectName": "Kế toán tài chính 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC212",
+        "subjectName": "Kế toán tài chính 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC232",
+        "subjectName": "Kế toán quốc tế 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC314",
+        "subjectName": "Kế toán máy",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC315",
+        "subjectName": "Kế toán công",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC316",
+        "subjectName": "Kế toán tài chính 3",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC317",
+        "subjectName": "Tổ chức hạch toán kế toán",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC322",
+        "subjectName": "Kế toán ngân hàng",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AC332",
+        "subjectName": "Kế toán quốc tế 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC335",
+        "subjectName": "Kế toán công ty",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC341",
+        "subjectName": "Kế toán quản trị",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC345",
+        "subjectName": "Phân tích kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC362",
+        "subjectName": "Lý thuyết kiểm toán",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC364",
+        "subjectName": "Kiểm toán báo cáo tài chính 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC365",
+        "subjectName": "Kiểm toán báo cáo tài chính 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC368",
+        "subjectName": "Kiểm soát quản lý",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC418",
+        "subjectName": "Lập và phân tích báo cáo tài chính",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AC481",
+        "subjectName": "CĐTN: Kế toán tài chính",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "AC482",
+        "subjectName": "CĐTN: Kế toán quản trị",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "AC495",
+        "subjectName": "Thực tập tốt nghiệp ngành Kế toán",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AC499",
+        "subjectName": "KLTN ngành Kế toán",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AD205",
+        "subjectName": "Kỹ năng soạn thảo văn bản (MS Office)",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AD206",
+        "subjectName": "Ẩm thực Việt Nam",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AD207",
+        "subjectName": "Kỹ năng soạn thảo văn bản (MS Open)",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AD212",
+        "subjectName": "Phương pháp hùng biện và các thủ thuật tranh biện",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AD213",
+        "subjectName": "Hát - Nhạc",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AD214",
+        "subjectName": "Nâng cao chất lượng giọng hát",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AD215",
+        "subjectName": "Ứng dụng Power Point",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AD216",
+        "subjectName": "Kỹ năng sống",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AD240",
+        "subjectName": "Nhiếp ảnh cơ bản",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AD241",
+        "subjectName": "Dẫn chương trình (MC)",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AD242",
+        "subjectName": "Thiết kế mỹ thuật",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AD243",
+        "subjectName": "Hội họa cơ bản",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AD250",
+        "subjectName": "Dinh dưỡng và tiết chế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AD312",
+        "subjectName": "Bóng đá",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AD313",
+        "subjectName": "Bóng đá nâng cao",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AD314",
+        "subjectName": "Nhảy hiện đại",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AD315",
+        "subjectName": "Nhảy hiện đại nâng cao",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AE212",
+        "subjectName": "Đất nước học Anh, Mỹ",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE300",
+        "subjectName": "Lý thuyết dịch",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE301",
+        "subjectName": "Dịch viết 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE312",
+        "subjectName": "Văn học Anh Mỹ",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE321",
+        "subjectName": "Thư tín thương mại",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE350",
+        "subjectName": "Tư duy phản biện",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE402",
+        "subjectName": "Dịch viết 2",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE405",
+        "subjectName": "Dịch nói 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE406",
+        "subjectName": "Dịch nói 2",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE415",
+        "subjectName": "Giao tiếp giữa các nền văn hoá",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE417",
+        "subjectName": "Ngôn ngữ và văn hoá",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE425",
+        "subjectName": "Tiếng Anh kinh tế",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE430",
+        "subjectName": "Tiếng Anh toàn cầu",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE431",
+        "subjectName": "Tiếng Anh báo chí",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE432",
+        "subjectName": "Tiếng Anh du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AE490",
+        "subjectName": "CĐTN: Thực hành tiếng Anh",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AE499",
+        "subjectName": "KLTN ngành Ngôn ngữ Anh",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AF200",
+        "subjectName": "Mỹ học",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AI130",
+        "subjectName": "Nhập môn trí tuệ nhân tạo",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AI220",
+        "subjectName": "Các công cụ lập trình trí tuệ nhân tạo",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AI310",
+        "subjectName": "Học máy nâng cao",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AI320",
+        "subjectName": "Xử lý ngôn ngữ tự nhiên",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AI321",
+        "subjectName": "Thị giác máy tính",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AI499",
+        "subjectName": "KLTN ngành Trí tuệ nhân tạo",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AJ201",
+        "subjectName": "Ngữ pháp tiếng Nhật 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ214",
+        "subjectName": "Văn hóa Nhật Bản 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ304",
+        "subjectName": "Ngữ pháp tiếng Nhật 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ311",
+        "subjectName": "Đất nước học Nhật Bản",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ313",
+        "subjectName": "Văn minh Nhật Bản",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ315",
+        "subjectName": "Văn bản tiếng Nhật",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ404",
+        "subjectName": "Tiếng Nhật giao tiếp doanh nghiệp",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ407",
+        "subjectName": "Kỹ thuật giảng dạy tiếng Nhật",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AJ408",
+        "subjectName": "Văn học Nhật Bản 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ409",
+        "subjectName": "Văn học Nhật Bản 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ413",
+        "subjectName": "Lịch sử Nhật Bản",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ415",
+        "subjectName": "Văn hóa Nhật Bản 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ428A",
+        "subjectName": "CĐTN: Tiếng Nhật trong xuất nhập khẩu",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ428B",
+        "subjectName": "CĐTN: Quản trị sản xuất trong các doanh nghiệp Nhật Bản",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ448A",
+        "subjectName": "CĐTN: Tâm lý học trong giáo dục tiếng Nhật",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ448B",
+        "subjectName": "CĐTN: Phương pháp đánh giá trong giáo dục tiếng Nhật",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ449A",
+        "subjectName": "CĐTN: Cấu trúc và thành phần câu tiếng Nhật",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ449B",
+        "subjectName": "CĐTN: Nhật Bản từ góc nhìn đa văn hóa",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AJ452",
+        "subjectName": "Kỹ năng giao tiếp tiếng Nhật",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ461",
+        "subjectName": "Tiếng Nhật truyền thông",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AJ499",
+        "subjectName": "KLTN ngành Ngôn ngữ Nhật",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AK200",
+        "subjectName": "Lý thuyết dịch",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AK216",
+        "subjectName": "Ngữ âm và từ vựng tiếng Hàn",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AK301",
+        "subjectName": "Dịch viết 1",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK304",
+        "subjectName": "Dịch viết 2",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK305",
+        "subjectName": "Dịch nói 1",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK308",
+        "subjectName": "Dịch nói 2",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK309",
+        "subjectName": "Dịch viết 3",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK310",
+        "subjectName": "Dịch nói 3",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK312",
+        "subjectName": "Văn học Hàn Quốc",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AK314",
+        "subjectName": "Tiếng Hàn cao cấp 1",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AK315",
+        "subjectName": "Tiếng Hàn cao cấp 2",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AK322",
+        "subjectName": "Tiếng Hàn cao cấp 3",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK323",
+        "subjectName": "Tiếng Hàn cao cấp 4",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK325",
+        "subjectName": "Ngữ pháp tiếng Hàn",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AK330",
+        "subjectName": "Đất nước học Hàn Quốc",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AK334",
+        "subjectName": "Lịch sử Hàn Quốc",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AK481",
+        "subjectName": "CĐTN: Hoạt động văn hoá- xã hội và kinh tế của người Hàn tại Việt Nam",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AK482",
+        "subjectName": "CĐTN: Ý thức của người Hàn trong thành ngữ và tục ngữ Hàn Quốc",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "AK499",
+        "subjectName": "KLTN ngành Ngôn ngữ Hàn",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AN103",
+        "subjectName": "Lý thuyết âm nhạc",
+        "credits": 3,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "AN112",
+        "subjectName": "Ký xướng âm 1",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AN122",
+        "subjectName": "Piano cơ bản",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN131",
+        "subjectName": "Kỹ thuật thanh nhạc 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN141",
+        "subjectName": "Kỹ thuật biểu diễn (vũ đạo) 1",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN201",
+        "subjectName": "Tính năng nhạc cụ",
+        "credits": 2,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "AN211",
+        "subjectName": "Phân tích âm nhạc",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN212",
+        "subjectName": "Ký xướng âm 2",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AN223",
+        "subjectName": "Piano ứng dụng 1",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN232",
+        "subjectName": "Kỹ thuật thanh nhạc 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN234",
+        "subjectName": "Thanh nhạc ứng dụng 1",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN235",
+        "subjectName": "Thanh nhạc ứng dụng 2",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN236",
+        "subjectName": "Kỹ thuật thanh nhạc (chuyên sâu)",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN237",
+        "subjectName": "Thanh nhạc ứng dụng (chuyên sâu)",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN242",
+        "subjectName": "Kỹ thuật biểu diễn (vũ đạo) 2",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN245",
+        "subjectName": "Vũ đạo (chuyên sâu)",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN251",
+        "subjectName": "Thực hành biểu diễn 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN252",
+        "subjectName": "Guitar",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN253",
+        "subjectName": "Trống",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "AN301",
+        "subjectName": "Hòa thanh",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN303",
+        "subjectName": "Phối khí 1",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN311",
+        "subjectName": "Sáng tác ca khúc 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AN323",
+        "subjectName": "Piano ứng dụng 2",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN333",
+        "subjectName": "Kỹ thuật thanh nhạc 3",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN352",
+        "subjectName": "Thực hành biểu diễn 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN402",
+        "subjectName": "Hòa thanh ứng dụng",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN404",
+        "subjectName": "Phối khí 2",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN412",
+        "subjectName": "Sáng tác ca khúc 2",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AN413",
+        "subjectName": "Kỹ thuật Phòng thu",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "AN434",
+        "subjectName": "Kỹ thuật thanh nhạc 4",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AN499",
+        "subjectName": "Chương trình tốt nghiệp",
+        "credits": 4,
+        "coef": 3
+    },
+    {
+        "subjectCode": "AZ200",
+        "subjectName": "Lý thuyết dịch",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ216",
+        "subjectName": "Ngữ âm và từ vựng tiếng Trung",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "AZ301",
+        "subjectName": "Dịch viết 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ302",
+        "subjectName": "Dịch viết 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ303",
+        "subjectName": "Dịch viết 3",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ305",
+        "subjectName": "Dịch nói 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ306",
+        "subjectName": "Dịch nói 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ307",
+        "subjectName": "Dịch nói 3",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ311",
+        "subjectName": "Đất nước học Trung Quốc",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ312",
+        "subjectName": "Văn học Trung Quốc",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ313",
+        "subjectName": "Văn hóa Trung Quốc",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ318",
+        "subjectName": "Ngữ pháp tiếng Trung",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "AZ458",
+        "subjectName": "CĐTN: Hợp tác kinh tế thương mại Việt Nam - Trung Quốc",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "AZ459",
+        "subjectName": "CĐTN: Ngôn ngữ văn hóa Trung Quốc",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "BA102",
+        "subjectName": "Quản trị học đại cương",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "BA211",
+        "subjectName": "Quản trị tác nghiệp",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA217",
+        "subjectName": "Quản trị nguồn nhân lực trong du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA222",
+        "subjectName": "Phân tích và lập dự án",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA224",
+        "subjectName": "Quản trị điều hành dự án",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA236",
+        "subjectName": "Quản trị điểm đến du lich",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA313",
+        "subjectName": "Quản trị chiến lược",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA314",
+        "subjectName": "Quản trị nguồn nhân lực",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA315",
+        "subjectName": "Văn hóa kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA315",
+        "subjectName": "Văn hóa kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA320",
+        "subjectName": "Kinh doanh quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA324",
+        "subjectName": "Quản lý dự án",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "BA327",
+        "subjectName": "Quản trị chất lượng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA328",
+        "subjectName": "Hành vi tổ chức",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA329",
+        "subjectName": "Mô phỏng kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA330",
+        "subjectName": "Quản trị chiến lược trong kinh doanh du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA331",
+        "subjectName": "Khởi sự kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA331",
+        "subjectName": "Khởi sự kinh doanh",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA332",
+        "subjectName": "Quản trị kinh doanh lữ hành",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA333",
+        "subjectName": "Quản trị kinh doanh khách sạn",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA334",
+        "subjectName": "Quản trị kinh doanh nhà hàng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA335",
+        "subjectName": "Quản trị chuỗi cung ứng trong kinh doanh lữ hành",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA344",
+        "subjectName": "Quản trị kinh doanh đồ uống",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BA351",
+        "subjectName": "Quản trị xuất nhập khẩu",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA352",
+        "subjectName": "Đấu thầu quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA353",
+        "subjectName": "Quản trị dự án đầu tư quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA354",
+        "subjectName": "Quản trị chuỗi cung ứng toàn cầu",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA355",
+        "subjectName": "Thanh toán trong kinh doanh quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA414",
+        "subjectName": "Kỹ năng lãnh đạo",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA420",
+        "subjectName": "Quản trị rủi ro trong doanh nghiệp",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "BA481",
+        "subjectName": "CĐTN: Quản trị doanh nghiệp",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BA481",
+        "subjectName": "CĐTN: Quản trị doanh nghiệp",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BA483",
+        "subjectName": "CĐTN: Quản trị đổi mới và sáng tạo",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BA483",
+        "subjectName": "CĐTN: Quản trị đổi mới và sáng tạo",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BA485",
+        "subjectName": "CĐTN: Nhượng quyền kinh doanh",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BA495",
+        "subjectName": "Thực tập tốt nghiệp ngành Quản trị kinh doanh",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "BA498",
+        "subjectName": "KLTN chuyên ngành Quản trị kinh doanh quốc tế",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "BA498",
+        "subjectName": "KLTN chuyên ngành Quản trị kinh doanh quốc tế",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "BA499",
+        "subjectName": "KLTN chuyên ngành Quản trị doanh nghiệp",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "BE310",
+        "subjectName": "Quản trị nguồn nhân lực",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "BE490",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 3,
+        "coef": 0.5
+    },
+    {
+        "subjectCode": "BE498",
+        "subjectName": "CĐTN: Giao tiếp trong kinh doanh",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "BK201",
+        "subjectName": "Ngân hàng thương mại 1",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "BK302",
+        "subjectName": "Ngân hàng thương mại 2",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "BK312",
+        "subjectName": "Ngân hàng phát triển",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "BK313",
+        "subjectName": "Ngân hàng trung ương",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "BK321",
+        "subjectName": "Thanh toán quốc tế",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "BK327",
+        "subjectName": "Xuất nhập khẩu",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "BK405",
+        "subjectName": "Quản trị rủi ro tín dụng của ngân hàng thương mại",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "BK490",
+        "subjectName": "CĐTN: Chuyên ngành Ngân hàng",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "BK499",
+        "subjectName": "KLTN chuyên ngành Ngân hàng",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "CF211",
+        "subjectName": "Phân tích và thiết kế thuật toán",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CF212",
+        "subjectName": "Cấu trúc dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CF231",
+        "subjectName": "Lý thuyết thông tin và mã hóa",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "CF301",
+        "subjectName": "Ngôn ngữ hình thức và Otomat",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CF320",
+        "subjectName": "Tín hiệu và hệ thống",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "CF321",
+        "subjectName": "Xử lý tín hiệu số",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "CJ401",
+        "subjectName": "Văn hoá doanh nghiệp Nhật Bản",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS100",
+        "subjectName": "Tin đại cương",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "CS101",
+        "subjectName": "Công dân số",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "CS110",
+        "subjectName": "Kỹ thuật số",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "CS121",
+        "subjectName": "Ngôn ngữ lập trình",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS122",
+        "subjectName": "Lập trình hướng đối tượng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS212",
+        "subjectName": "Kiến trúc máy tính",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS223",
+        "subjectName": "Lập trình Java",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS223",
+        "subjectName": "Lập trình Java",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS224",
+        "subjectName": "Lập trình .Net",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS314",
+        "subjectName": "Lập trình ứng dụng di động",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS315",
+        "subjectName": "Nguyên lý hệ điều hành",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS316",
+        "subjectName": "Hệ điều hành Unix",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS317",
+        "subjectName": "Lập trình ứng dụng Web",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS320",
+        "subjectName": "Học máy",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS321",
+        "subjectName": "Nhập môn khoa học dữ liệu",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS323",
+        "subjectName": "Lập trình JavaScript",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS325",
+        "subjectName": "Lập trình PHP",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS425",
+        "subjectName": "Một số vấn đề hiện đại trong khoa học máy tính",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "CS499",
+        "subjectName": "KLTN ngành Khoa học máy tính",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "EC101",
+        "subjectName": "Kinh tế học đại cương",
+        "credits": 3,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "EC102",
+        "subjectName": "Nhập môn kinh tế học",
+        "credits": 2,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "EC200",
+        "subjectName": "Kinh tế vĩ mô và vi mô",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "EC204",
+        "subjectName": "Kinh tế vi mô",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "EC205",
+        "subjectName": "Kinh tế vĩ mô",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "EC206",
+        "subjectName": "Kinh tế học tăng trưởng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EC207",
+        "subjectName": "Kinh tế vĩ mô nâng cao",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EC208",
+        "subjectName": "Kinh tế phát triển",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "EC221",
+        "subjectName": "Luật kinh tế",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "EC310",
+        "subjectName": "Các phương pháp phân tích định lượng trong kinh tế",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EC315",
+        "subjectName": "Nhập môn kinh tế quốc tế",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EC316",
+        "subjectName": "Kinh tế quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "EC490",
+        "subjectName": "CĐTN: Kinh tế học",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "EJ331",
+        "subjectName": "Giáo dục Nhật Bản",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EK211",
+        "subjectName": "Kinh tế Hàn Quốc",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL321",
+        "subjectName": "Ngữ pháp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL322",
+        "subjectName": "Ngữ âm và âm vị học",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL325",
+        "subjectName": "Ngữ nghĩa học từ vựng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL401",
+        "subjectName": "Ngôn ngữ học đối chiếu",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL425",
+        "subjectName": "Ngữ dụng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL426",
+        "subjectName": "Phân tích diễn ngôn",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EL427",
+        "subjectName": "Cú pháp - hình thái học",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "EM315",
+        "subjectName": "Nhập môn Marketing",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ES120",
+        "subjectName": "Phát âm",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ES130",
+        "subjectName": "Thực hành từ vựng và cấu trúc tiếng Anh 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ES140",
+        "subjectName": "Thực hành từ vựng và cấu trúc tiếng Anh 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ES211",
+        "subjectName": "Kỹ năng Nghe tiếng Anh 1",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES212",
+        "subjectName": "Kỹ năng Nghe tiếng Anh 2",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES213",
+        "subjectName": "Kỹ năng Nghe tiếng Anh 3",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES221",
+        "subjectName": "Kỹ năng Nói tiếng Anh 1",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES222",
+        "subjectName": "Kỹ năng Nói tiếng Anh 2",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES223",
+        "subjectName": "Kỹ năng Nói tiếng Anh 3",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES231",
+        "subjectName": "Kỹ năng Đọc tiếng Anh 1",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES232",
+        "subjectName": "Kỹ năng Đọc tiếng Anh 2",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES233",
+        "subjectName": "Kỹ năng Đọc tiếng Anh 3",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES241",
+        "subjectName": "Kỹ năng Viết tiếng Anh 1",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES242",
+        "subjectName": "Kỹ năng Viết tiếng Anh 2",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "ES243",
+        "subjectName": "Kỹ năng Viết tiếng Anh 3",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "FA111",
+        "subjectName": "Nhiếp ảnh",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA121",
+        "subjectName": "Hình họa",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA131",
+        "subjectName": "Bố cục màu",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA212",
+        "subjectName": "Cách điệu đồ họa",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA221",
+        "subjectName": "Cơ sở tạo hình",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA321",
+        "subjectName": "Các thủ pháp đồ họa",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "FA323",
+        "subjectName": "Ảnh báo chí",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FA421",
+        "subjectName": "Thiết kế đồ hoạ truyền thông",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "FA422",
+        "subjectName": "Thiết kế bộ bài quảng cáo thương mại và văn hóa",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FN201",
+        "subjectName": "Tài chính tiền tệ căn bản",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "FN211",
+        "subjectName": "Tài chính doanh nghiệp",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "FN212",
+        "subjectName": "Quản trị tài chính doanh nghiệp 1",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN214",
+        "subjectName": "Quản trị tài chính trong du lịch",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "FN216",
+        "subjectName": "Quản trị tài chính",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN222",
+        "subjectName": "Tài chính công",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN224",
+        "subjectName": "Thuế",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN261",
+        "subjectName": "Tài chính quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "FN313",
+        "subjectName": "Quản trị tài chính doanh nghiệp 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "FN317",
+        "subjectName": "Công cụ tài chính phái sinh",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN331",
+        "subjectName": "Thị trường chứng khoán",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FN333",
+        "subjectName": "Quản trị rủi ro tài chính",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "FN334",
+        "subjectName": "Đầu tư chứng khoán",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "FN335",
+        "subjectName": "Bảo hiểm",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN418",
+        "subjectName": "Phân tích tài chính doanh nghiệp",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN436",
+        "subjectName": "Định giá tài sản",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "FN438",
+        "subjectName": "Đầu tư tài chính",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FN481",
+        "subjectName": "CĐTN: Ngành Tài chính - Ngân hàng",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "FN482",
+        "subjectName": "CĐTN: Chuyên ngành Tài chính",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "FN495",
+        "subjectName": "Thực tập tốt nghiệp ngành Tài chính – Ngân hàng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "FN499",
+        "subjectName": "KLTN chuyên ngành Tài chính",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "FN499",
+        "subjectName": "KLTN chuyên ngành Tài chính",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "GE101",
+        "subjectName": "Tiếng Anh sơ cấp 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE102",
+        "subjectName": "Tiếng Anh sơ cấp 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE103",
+        "subjectName": "Tiếng Anh sơ cấp 3",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE171",
+        "subjectName": "Tiếng Anh cơ sở 1",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "GE172",
+        "subjectName": "Tiếng Anh cơ sở 2",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "GE173",
+        "subjectName": "Tiếng Anh cơ sở 3",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "GE201",
+        "subjectName": "Tiếng Anh sơ trung cấp 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE202",
+        "subjectName": "Tiếng Anh sơ trung cấp 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE205",
+        "subjectName": "Tiếng Anh sơ trung cấp 3",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE301",
+        "subjectName": "Tiếng Anh trung cấp 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE303",
+        "subjectName": "Tiếng Anh trung cấp 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE305",
+        "subjectName": "Tiếng Anh trung cấp 3",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE306",
+        "subjectName": "Tiếng Anh trung cấp nâng cao 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE307",
+        "subjectName": "Tiếng Anh trung cấp nâng cao 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GE374",
+        "subjectName": "Tiếng Anh cao cấp",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "GF101",
+        "subjectName": "Tiếng Pháp 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GF102",
+        "subjectName": "Tiếng Pháp 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GI101",
+        "subjectName": "Tiếng Ý 1",
+        "credits": 2,
+        "coef": 0.75
+    },
+    {
+        "subjectCode": "GI102",
+        "subjectName": "Tiếng Ý 2",
+        "credits": 2,
+        "coef": 0.75
+    },
+    {
+        "subjectCode": "GJ101",
+        "subjectName": "Tiếng Nhật 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GJ102",
+        "subjectName": "Tiếng Nhật 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GJ141E",
+        "subjectName": "Tiếng Nhật sơ cấp 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ142E",
+        "subjectName": "Tiếng Nhật sơ cấp 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ143",
+        "subjectName": "Tiếng Nhật sơ cấp 3",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ174",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật sơ cấp",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ240",
+        "subjectName": "Tiếng Nhật trung cấp 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ242",
+        "subjectName": "Tiếng Nhật trung cấp 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ243",
+        "subjectName": "Tiếng Nhật trung cấp 3",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ270",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật trung cấp 1",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ272",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật trung cấp 2",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ273",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật trung cấp 3",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ343",
+        "subjectName": "Tiếng Nhật cao cấp 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ344",
+        "subjectName": "Tiếng Nhật cao cấp 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ371",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật cao cấp 1",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GJ372",
+        "subjectName": "Bổ trợ kỹ năng tiếng Nhật cao cấp 2",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK101",
+        "subjectName": "Tiếng Hàn 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GK102",
+        "subjectName": "Tiếng Hàn 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GK131",
+        "subjectName": "Tiếng Hàn sơ cấp 1",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK142",
+        "subjectName": "Tiếng Hàn sơ cấp 2",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK151",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 1",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK152",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 2",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK153",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 3",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK241",
+        "subjectName": "Tiếng Hàn trung cấp 1",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK242",
+        "subjectName": "Tiếng Hàn trung cấp 2",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK261",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 4",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK262",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 5",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GK263",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Hàn 6",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ101",
+        "subjectName": "Tiếng Trung 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GZ102",
+        "subjectName": "Tiếng Trung 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "GZ131",
+        "subjectName": "Tiếng Trung sơ cấp 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ132",
+        "subjectName": "Tiếng Trung sơ cấp 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ133",
+        "subjectName": "Tiếng Trung sơ cấp 3",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ151",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 1",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "GZ152",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 2",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "GZ153",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 3",
+        "credits": 3,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "GZ241",
+        "subjectName": "Tiếng Trung trung cấp 1",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ242",
+        "subjectName": "Tiếng Trung trung cấp 2",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ243",
+        "subjectName": "Tiếng Trung trung cấp 3",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "GZ251",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 4",
+        "credits": 3,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "GZ252",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 5",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "GZ253",
+        "subjectName": "Kỹ năng nghe, nói, đọc, viết Trung 6",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "HR200",
+        "subjectName": "Quản trị tiền sảnh",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "HR201",
+        "subjectName": "Quản trị nghiệp vụ buồng",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "HR202",
+        "subjectName": "Quản trị nghiệp vụ bàn",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "HR203",
+        "subjectName": "Quản trị nghiệp vụ bar",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "HR220",
+        "subjectName": "Quản trị chế biến món ăn",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "HR221",
+        "subjectName": "Nghiệp vụ chế biến bánh và kem",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "HR310",
+        "subjectName": "Quản trị sự kiện",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "HR311",
+        "subjectName": "Quản trị dịch vụ bổ sung trong khách sạn",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "HR320",
+        "subjectName": "Quản trị tiệc",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IE201",
+        "subjectName": "Kinh tế quốc tế 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE203",
+        "subjectName": "Kinh tế thế giới",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE204",
+        "subjectName": "Kinh tế các nước Asean",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE302",
+        "subjectName": "Kinh tế quốc tế 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE305",
+        "subjectName": "Chính sách kinh tế đối ngoại",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE311",
+        "subjectName": "Tài chính quốc tế 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IE312",
+        "subjectName": "Tài chính quốc tế 2",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IE321",
+        "subjectName": "Đàm phán kinh doanh quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE322",
+        "subjectName": "Kinh doanh quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE323",
+        "subjectName": "Chính sách quản lý công ty đa quốc gia",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE331",
+        "subjectName": "Luật thương mại quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE332",
+        "subjectName": "Tài trợ thương mại quốc tế",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IE405",
+        "subjectName": "Phương pháp thực chứng trong kinh tế quốc tế",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IE413",
+        "subjectName": "Đầu tư quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IE490",
+        "subjectName": "CĐTN: Kinh tế quốc tế",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "IE495",
+        "subjectName": "Thực tập tốt nghiệp ngành Kinh tế quốc tế",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "IE499",
+        "subjectName": "KLTN ngành Kinh tế quốc tế",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "IJ301",
+        "subjectName": "Tiếng Nhật IT",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IM206",
+        "subjectName": "Ứng dụng Excel",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IM210",
+        "subjectName": "Tin học âm nhạc",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IN301",
+        "subjectName": "Tin học ứng dụng trong dinh dưỡng tiết chế",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IP303",
+        "subjectName": "Tiếng Nhật văn phòng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IP401",
+        "subjectName": "Thực tập ngành Khoa học máy tính",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "IP402",
+        "subjectName": "Thực tập ngành Truyền thông và mạng máy tính",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "IP403",
+        "subjectName": "Thực tập ngành Hệ thống thông tin",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "IP404",
+        "subjectName": "Thực tập ngành Công nghệ thông tin",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "IP405",
+        "subjectName": "Thực tập ngành Trí tuệ nhân tạo",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "IR210",
+        "subjectName": "Nghiệp vụ thư ký văn phòng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR212",
+        "subjectName": "Lịch sử ngoại giao Việt Nam",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR215",
+        "subjectName": "Văn hóa đối ngoại",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR301",
+        "subjectName": "Luật quốc tế",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR322",
+        "subjectName": "ASEAN và cộng đồng ASEAN",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR325",
+        "subjectName": "Khu vực học thế giới",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR412",
+        "subjectName": "Các tổ chức quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR422",
+        "subjectName": "Di cư trong quan hệ quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IR451",
+        "subjectName": "Thực tập chuyên môn",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "IS203",
+        "subjectName": "Vi tính tiếng Nhật",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS222",
+        "subjectName": "Cơ sở dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS314",
+        "subjectName": "Hệ thống thông tin",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS315",
+        "subjectName": "Mô hình hóa quy trình nghiệp vụ",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS317",
+        "subjectName": "Hạ tầng công nghệ thông tin",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS322",
+        "subjectName": "Hệ quản trị cơ sở dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS324",
+        "subjectName": "Phân tích dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS325",
+        "subjectName": "Cơ sở dữ liệu phân tán",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS326",
+        "subjectName": "Khai phá dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS327",
+        "subjectName": "Kho dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS330",
+        "subjectName": "Dữ liệu lớn",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS332",
+        "subjectName": "Phân tích thiết kế hướng đối tượng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS333",
+        "subjectName": "Phân tích thiết kế hệ thống thông tin",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS334",
+        "subjectName": "Quản lý dự án hệ thống thông tin",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS335",
+        "subjectName": "Phát triển ứng dụng doanh nghiệp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS336",
+        "subjectName": "Triển khai và kiểm soát hệ thống thông tin doanh nghiệp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS337",
+        "subjectName": "Xây dựng ứng dụng thương mại điện tử",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS338",
+        "subjectName": "Hệ thống thông tin di động",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS345",
+        "subjectName": "An toàn thông tin",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS345",
+        "subjectName": "An toàn thông tin",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "IS382",
+        "subjectName": "Công nghệ thông tin trong doanh nghiệp",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS383",
+        "subjectName": "Hệ thống thông tin nâng cao",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS384",
+        "subjectName": "Một số vấn đề hiện đại về hệ thống thông tin",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS386",
+        "subjectName": "Ứng dụng thương mại điện tử trong du lịch",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "IS424",
+        "subjectName": "Lập trình cơ sở dữ liệu",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS480",
+        "subjectName": "Kiến trúc doanh nghiệp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IS484",
+        "subjectName": "CĐTN: Cơ sở dữ liệu",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "IS485",
+        "subjectName": "CĐTN: Ngành Trí tuệ nhân tạo",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "IS499",
+        "subjectName": "KLTN ngành Hệ thống thông tin",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "IT320",
+        "subjectName": "Lập trình Python",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IT332",
+        "subjectName": "Internet of Things",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IT333",
+        "subjectName": "Công nghệ Web",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IT333",
+        "subjectName": "Công nghệ Web",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IT380",
+        "subjectName": "Dự án Công nghệ thông tin",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "IT499",
+        "subjectName": "KLTN ngành Công nghệ thông tin",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "LC211",
+        "subjectName": "Luật Hình sự Việt Nam",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LC312",
+        "subjectName": "Luật tố tụng Hình sự",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LD121",
+        "subjectName": "Luật Dân sự Việt Nam",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LD202",
+        "subjectName": "Luật Hôn nhân và gia đình",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LD213",
+        "subjectName": "Luật tố tụng Dân sự Việt Nam",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LD314",
+        "subjectName": "Luật An sinh xã hội",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LD323",
+        "subjectName": "Luật thi hành án dân sự Việt Nam",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LG201",
+        "subjectName": "Nguyên lý cơ bản về Logistics và quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG201",
+        "subjectName": "Nguyên lý cơ bản về logistics và quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG201",
+        "subjectName": "Nguyên lý cơ bản về Logistics và quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG202",
+        "subjectName": "Nhập môn Logistics quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LG214",
+        "subjectName": "Logistics nội đô",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "LG215",
+        "subjectName": "Logistics xanh",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "LG217",
+        "subjectName": "Quản lý các hệ thống logistics",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "LG219",
+        "subjectName": "Quản lý logistics",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG301",
+        "subjectName": "Chiến lược logistics và quản lý cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG302",
+        "subjectName": "Logistics quốc tế và chuỗi cung ứng toàn cầu",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG303",
+        "subjectName": "Vận tải logistics",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG319",
+        "subjectName": "Các phương pháp phân tích định lượng trong logistics và Quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "LG330",
+        "subjectName": "Quản lý kho hàng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG491",
+        "subjectName": "CĐTN: Logistics",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "LG495",
+        "subjectName": "Thực tập tốt nghiệp ngành Logistics và Quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "LG499",
+        "subjectName": "KLTN ngành Logistics và Quản lý chuỗi cung ứng",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "LH101",
+        "subjectName": "Luật Hiến pháp Việt Nam",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LH112",
+        "subjectName": "Luật Hành chính Việt Nam",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LH321",
+        "subjectName": "Pháp luật về quản trị doanh nghiệp",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LK211",
+        "subjectName": "Luật Lao động Việt Nam",
+        "credits": 4,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK216",
+        "subjectName": "Luật Hải quan",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LK221",
+        "subjectName": "Luật Doanh nghiệp",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK222",
+        "subjectName": "Luật Tài chính Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK223",
+        "subjectName": "Luật Đất đai",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK302",
+        "subjectName": "Luật Thương mại Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK304",
+        "subjectName": "Pháp luật về Kinh doanh Bất động sản",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LK305",
+        "subjectName": "Pháp luật về thị trường chứng khoán",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK306",
+        "subjectName": "Pháp luật về kinh doanh bảo hiểm",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LK309",
+        "subjectName": "Luật Kiểm toán Nhà nước",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK314",
+        "subjectName": "Luật Ngân hàng Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK315",
+        "subjectName": "Pháp luật về Cạnh tranh và bảo vệ người tiêu dùng",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LK321",
+        "subjectName": "Pháp luật về Sở hữu trí tuệ",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK322",
+        "subjectName": "Pháp luật về Kế toán",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK323",
+        "subjectName": "Luật Môi trường",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LK324",
+        "subjectName": "Luật Đầu tư",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LK328",
+        "subjectName": "Pháp luật về giải quyết tranh chấp kinh tế thương mại",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LK332",
+        "subjectName": "Pháp luật kinh doanh quốc tế",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LK481",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 3,
+        "coef": 1
+    },
+    {
+        "subjectCode": "LK482",
+        "subjectName": "CĐTN: Luật Đầu tư quốc tế",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "LK483",
+        "subjectName": "CĐTN: Pháp luật về Tài chính doanh nghiệp",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "LK484",
+        "subjectName": "CĐTN: Tư pháp Quốc tế",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "LK485",
+        "subjectName": "CĐTN: Công pháp Quốc tế",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "LK499",
+        "subjectName": "Khóa luận tốt nghiệp",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "LK499",
+        "subjectName": "KLTN ngành Luật Kinh tế",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "LL101",
+        "subjectName": "Lý luận về nhà nước và pháp luật",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LN211",
+        "subjectName": "Kỹ năng đàm phán, soạn thảo và ký kết hợp đồng dân sự",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LN305",
+        "subjectName": "Kỹ năng tư vấn trong lĩnh vực đất đai",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LN306",
+        "subjectName": "Kỹ năng tư vấn pháp luật thuế, tài chính doanh nghiệp",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LN404",
+        "subjectName": "Kỹ năng tư vấn trong các dự án đầu tư",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LN407",
+        "subjectName": "Kỹ năng giải quyết tranh chấp lao động và đình công",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LN409",
+        "subjectName": "Kỹ năng giải quyết trong lĩnh vực tín dụng ngân hàng",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "LQ201",
+        "subjectName": "Luật quốc tế",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "LQ214",
+        "subjectName": "Luật trọng tài thương mại",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "LQ325",
+        "subjectName": "Luật Thương mại quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA100",
+        "subjectName": "Logic và suy luận toán học",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "MA101",
+        "subjectName": "Logic, suy luận toán học và kỹ thuật đếm",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "MA104",
+        "subjectName": "Số và cấu trúc đại số",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA110",
+        "subjectName": "Giải tích 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA111",
+        "subjectName": "Giải tích 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA120",
+        "subjectName": "Đại số tuyến tính",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA142",
+        "subjectName": "Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "MA142",
+        "subjectName": "Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "MA142",
+        "subjectName": "Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "MA230",
+        "subjectName": "Xác suất",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA231",
+        "subjectName": "Xác suất thống kê ứng dụng",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA231",
+        "subjectName": "Xác suất thống kê ứng dụng",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA232",
+        "subjectName": "Thống kê xã hội học",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA233",
+        "subjectName": "Thống kê y học",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA234",
+        "subjectName": "Thống kê",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA236",
+        "subjectName": "Thống kê du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA238",
+        "subjectName": "Thống kê nâng cao",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA238",
+        "subjectName": "Thống kê nâng cao",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA239",
+        "subjectName": "Xác suất thống kê",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MA241",
+        "subjectName": "Toán tài chính",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MA300",
+        "subjectName": "Toán chuyên ngành truyền thông dữ liệu",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MC101",
+        "subjectName": "Xã hội học truyền thông",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MC111",
+        "subjectName": "Nhập môn truyền thông đa phương tiện",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC121",
+        "subjectName": "Kiến thức âm nhạc cơ bản",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MC223",
+        "subjectName": "Thăm dò dư luận xã hội",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC308",
+        "subjectName": "Sự kiện và tổ chức sự kiện",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "MC311",
+        "subjectName": "Kịch bản truyền thông",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC312",
+        "subjectName": "Quảng cáo và sản xuất phim Quảng cáo",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MC321",
+        "subjectName": "Truyền thông Marketing tích hợp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC392",
+        "subjectName": "Thực tập truyền thông",
+        "credits": 3,
+        "coef": 2.6
+    },
+    {
+        "subjectCode": "MC412",
+        "subjectName": "Xử lý khủng hoảng truyền thông",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC421",
+        "subjectName": "Giải phóng hình thể và tâm trí",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MC481",
+        "subjectName": "CĐTN: Xử lý khủng hoảng truyền thông hiện đại",
+        "credits": 6,
+        "coef": 4
+    },
+    {
+        "subjectCode": "MC482",
+        "subjectName": "CĐTN: Sử dụng truyền thông trong vận động chính sách",
+        "credits": 6,
+        "coef": 4
+    },
+    {
+        "subjectCode": "MC492",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 4,
+        "coef": 3
+    },
+    {
+        "subjectCode": "MC499",
+        "subjectName": "Đồ án tốt nghiệp",
+        "credits": 6,
+        "coef": 4
+    },
+    {
+        "subjectCode": "MD112",
+        "subjectName": "Thiết kế dàn trang tạp chí và báo",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD121",
+        "subjectName": "Phần mềm thiết kế",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD131",
+        "subjectName": "Xử lý ảnh",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD132",
+        "subjectName": "Dựng hình 3D cơ bản",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD211",
+        "subjectName": "Thiết kế hoạt hình 2D",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD212",
+        "subjectName": "Thiết kế nhận diện thương hiệu và quảng cáo",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD222",
+        "subjectName": "Thiết kế giao diện web",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD223",
+        "subjectName": "Dẫn chương trình truyền hình",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "MD292",
+        "subjectName": "Thực tập thiết kế",
+        "credits": 3,
+        "coef": 2.6
+    },
+    {
+        "subjectCode": "MD311",
+        "subjectName": "Kỹ thuật ghi hình và Tổ chức sản xuất",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD313",
+        "subjectName": "Thiết kế hoạt hình 3D",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD314",
+        "subjectName": "Truyền thông và vận động chính sách",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MD323",
+        "subjectName": "Dựng hình 3D nâng cao",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD332",
+        "subjectName": "Biên tập hậu kỳ",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD333",
+        "subjectName": "Kỹ xảo đa phương tiện",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD413",
+        "subjectName": "Tòa soạn đa phương tiện",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "MD420",
+        "subjectName": "Thiết kế đồ họa trong marketing",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "MD423",
+        "subjectName": "Quan hệ công chúng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MI201",
+        "subjectName": "Toán rời rạc",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MI302",
+        "subjectName": "Tối ưu hóa",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MI312",
+        "subjectName": "Đồ họa",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MI322",
+        "subjectName": "Trí tuệ nhân tạo và công nghệ tri thức",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MI414",
+        "subjectName": "Giao diện người máy",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MJ401",
+        "subjectName": "Tiếng Nhật y tế",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MK202",
+        "subjectName": "Marketing căn bản",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "MK302",
+        "subjectName": "Nghiên cứu marketing",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK305",
+        "subjectName": "Hành vi người tiêu dùng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK313",
+        "subjectName": "Quản trị thương hiệu",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK322",
+        "subjectName": "Quản trị chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK323",
+        "subjectName": "Quản trị sản phẩm",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK324",
+        "subjectName": "Quản trị giá",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK325",
+        "subjectName": "Quản trị kênh phân phối",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK331",
+        "subjectName": "Marketing ngân hàng",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "MK334",
+        "subjectName": "E – Marketing",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK338",
+        "subjectName": "Marketing du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "MK416",
+        "subjectName": "Marketing quốc tế",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK418",
+        "subjectName": "Marketing quốc tế",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK420",
+        "subjectName": "Marketing công nghiệp",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK423",
+        "subjectName": "Quan hệ cộng đồng",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "MK424",
+        "subjectName": "Quản trị bán hàng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK425",
+        "subjectName": "Quan hệ công chúng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK426",
+        "subjectName": "Truyền thông marketing tích hợp",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK430",
+        "subjectName": "Marketing dịch vụ",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MK481",
+        "subjectName": "CĐTN: Quản trị marketing",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "MK482",
+        "subjectName": "CĐTN: Quản trị quan hệ khách hàng",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "MK482",
+        "subjectName": "CĐTN: Quản trị quan hệ khách hàng",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "MK495",
+        "subjectName": "Thực tập tốt nghiệp ngành Marketing",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "MK498",
+        "subjectName": "KLTN ngành Marketing",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "ML113",
+        "subjectName": "Triết học Mác - Lênin",
+        "credits": 3,
+        "coef": 1
+    },
+    {
+        "subjectCode": "ML114",
+        "subjectName": "Kinh tế chính trị Mác - Lênin",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "ML115",
+        "subjectName": "Chủ nghĩa xã hội khoa học",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "ML202",
+        "subjectName": "Tư tưởng Hồ Chí Minh",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "ML204",
+        "subjectName": "Lịch sử Đảng Cộng sản Việt Nam",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "MP203",
+        "subjectName": "Tâm lý đám đông",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "MZ333",
+        "subjectName": "Phương pháp giảng dạy chữ Hán",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA141",
+        "subjectName": "Giải phẫu cơ bản",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA144",
+        "subjectName": "Sinh lý học",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA145",
+        "subjectName": "Mô phôi - Di truyền",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NA146",
+        "subjectName": "Vi sinh vật",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA147",
+        "subjectName": "Ký sinh trùng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA151",
+        "subjectName": "Khoa học môi trường",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "NA162",
+        "subjectName": "Hóa - Hóa sinh",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NA205",
+        "subjectName": "Sinh lý bệnh - Miễn dịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NC211",
+        "subjectName": "Kiểm soát nhiễm khuẩn trong thực hành điều dưỡng",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NC463",
+        "subjectName": "Kinh tế hộ gia đình - dinh dưỡng",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NC499",
+        "subjectName": "KLTN ngành Dinh dưỡng",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "ND337",
+        "subjectName": "Triệu chứng và bệnh học Nội khoa",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND338",
+        "subjectName": "Triệu chứng bệnh học Nhi khoa",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND339",
+        "subjectName": "Triệu chứng bệnh học Ngoại khoa",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND340",
+        "subjectName": "Triệu chứng bệnh học Sản phụ khoa",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND342",
+        "subjectName": "Bệnh học dinh dưỡng",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND344",
+        "subjectName": "Hóa sinh dinh dưỡng",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND346",
+        "subjectName": "Dinh dưỡng tiết chế Nội, Nhi",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ND347",
+        "subjectName": "Dinh dưỡng tiết chế Ngoại, Sản",
+        "credits": 4,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "ND348",
+        "subjectName": "Can thiệp dinh dưỡng trong bệnh viện",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "ND448",
+        "subjectName": "CĐTN: Dinh dưỡng tiết chế",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NF217",
+        "subjectName": "An toàn vệ sinh thực phẩm",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NF329",
+        "subjectName": "Kiểm nghiệm thực phẩm",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NF331",
+        "subjectName": "Truyền thông giáo dục an toàn thực phẩm",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NF332",
+        "subjectName": "Điều tra giám sát ngộ độc thực phẩm",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NF334",
+        "subjectName": "Đánh giá nguy cơ ô nhiễm thực phẩm",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NF341",
+        "subjectName": "Kỹ thuật chế biến món ăn",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NF450",
+        "subjectName": "CĐTN: An toàn thực phẩm",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NP211",
+        "subjectName": "Dược lý",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NR201",
+        "subjectName": "Điều dưỡng cơ bản 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NR202",
+        "subjectName": "Điều dưỡng cơ bản 2",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR203",
+        "subjectName": "Kỹ năng giao tiếp trong thực hành Điều dưỡng",
+        "credits": 2,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "NR211",
+        "subjectName": "Điều dưỡng các bệnh Nội khoa 1",
+        "credits": 4,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR212",
+        "subjectName": "Điều dưỡng các bệnh Nội khoa 2",
+        "credits": 4,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR216",
+        "subjectName": "Dinh dưỡng - Tiết chế và an toàn thực phẩm",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NR303",
+        "subjectName": "Điều dưỡng phục hồi chức năng",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR310",
+        "subjectName": "Điều dưỡng Hồi sức cấp cứu",
+        "credits": 3,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR314",
+        "subjectName": "Điều dưỡng các bệnh truyền nhiễm",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR321",
+        "subjectName": "Điều dưỡng Nhi khoa",
+        "credits": 5,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR331",
+        "subjectName": "Điều dưỡng các bệnh Ngoại khoa 1",
+        "credits": 4,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR332",
+        "subjectName": "Điều dưỡng các bệnh Ngoại khoa 2",
+        "credits": 4,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR342",
+        "subjectName": "Điều dưỡng Sản - Phụ khoa",
+        "credits": 5,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR354",
+        "subjectName": "Y học cổ truyền",
+        "credits": 2,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "NR404",
+        "subjectName": "Quản lý y tế và Quản lý điều dưỡng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NR413",
+        "subjectName": "Điều dưỡng các bệnh Nội khoa nâng cao",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR415",
+        "subjectName": "Điều dưỡng các bệnh tâm thần",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR416",
+        "subjectName": "Chăm sóc người cao tuổi và bệnh nhân hấp hối",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "NR419",
+        "subjectName": "KLTN: Chuyên sâu điều dưỡng các bệnh nội khoa",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "NR422",
+        "subjectName": "Điều dưỡng Nhi khoa nâng cao",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR429",
+        "subjectName": "KLTN: Chuyên sâu điều dưỡng các bệnh nhi khoa",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "NR433",
+        "subjectName": "Điều dưỡng các bệnh Ngoại khoa nâng cao",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR434",
+        "subjectName": "Điều dưỡng Sản - Phụ khoa nâng cao",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR439",
+        "subjectName": "KLTN: Chuyên sâu điều dưỡng các bệnh ngoại khoa",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "NR449",
+        "subjectName": "KLTN: Chuyên sâu điều dưỡng Sản - Phụ khoa",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "NR451",
+        "subjectName": "Điều dưỡng cộng đồng",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NR459",
+        "subjectName": "KLTN: Chuyên sâu y học cơ sở",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "NR471",
+        "subjectName": "CĐTN: Điều dưỡng Nội khoa",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NR472",
+        "subjectName": "CĐTN: Điều dưỡng Ngoại khoa",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NR473",
+        "subjectName": "CĐTN: Điều dưỡng Sản - Phụ khoa",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NR474",
+        "subjectName": "CĐTN: Điều dưỡng Nhi khoa",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NR475",
+        "subjectName": "CĐTN: Điều dưỡng Hồi sức cấp cứu",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NS213",
+        "subjectName": "Dinh dưỡng thể dục, thể thao",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS214",
+        "subjectName": "Dinh dưỡng cơ sở",
+        "credits": 3,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS215",
+        "subjectName": "Khoa học thực phẩm",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS220",
+        "subjectName": "Dinh dưỡng học đường",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS221",
+        "subjectName": "Dinh dưỡng người cao tuổi",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS250",
+        "subjectName": "Dinh dưỡng cộng đồng & Văn hóa xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NS318",
+        "subjectName": "Giáo dục - Truyền thông/Tư vấn dinh dưỡng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NS324",
+        "subjectName": "Can thiệp dinh dưỡng",
+        "credits": 2,
+        "coef": 1.3
+    },
+    {
+        "subjectCode": "NS438",
+        "subjectName": "Thực tập dinh dưỡng cộng đồng",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "NS449",
+        "subjectName": "CĐTN: Dinh dưỡng cộng đồng",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "NS450",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NW212",
+        "subjectName": "Mạng máy tính",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "NW312",
+        "subjectName": "Thiết kế và quản trị mạng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NW323",
+        "subjectName": "Lập trình mạng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NW332",
+        "subjectName": "An toàn mạng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "NW439",
+        "subjectName": "CĐTN: An toàn mạng",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "PE412",
+        "subjectName": "Sử dụng tài nguyên trong giảng dạy tiếng Anh",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PE422",
+        "subjectName": "Giảng dạy tiếng Anh chuyên ngành",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PE490",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 3,
+        "coef": 0.5
+    },
+    {
+        "subjectCode": "PE495",
+        "subjectName": "CĐTN: Ứng dụng công nghệ trong giảng dạy tiếng Anh",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "PG100",
+        "subjectName": "Giáo dục thể chất",
+        "credits": 4,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "PG121",
+        "subjectName": "Giáo dục quốc phòng",
+        "credits": 4,
+        "coef": 1.2
+    },
+    {
+        "subjectCode": "PG331",
+        "subjectName": "Phương pháp giảng dạy ngoại ngữ 1",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PG332",
+        "subjectName": "Phương pháp giảng dạy ngoại ngữ 2",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PG341",
+        "subjectName": "Thiết kế giáo án và phát triển tài liệu",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PG342",
+        "subjectName": "Kiểm tra và đánh giá",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PH201",
+        "subjectName": "Đạo đức y học",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "PH215",
+        "subjectName": "Sức khỏe môi trường",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PH233",
+        "subjectName": "Giáo dục và tư vấn sức khỏe",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PH313",
+        "subjectName": "Vệ sinh an toàn thực phẩm và dinh dưỡng học",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PH321",
+        "subjectName": "Dịch tễ học cơ bản và phân loại các bệnh tật",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PH334",
+        "subjectName": "Phương pháp nghiên cứu khoa học trong y tế",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "PH335",
+        "subjectName": "Sức khoẻ cộng đồng",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PH337",
+        "subjectName": "Sơ cấp cứu trong quá trình phục vụ du lịch",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "PJ321",
+        "subjectName": "Tiếng Nhật marketing 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PJ322",
+        "subjectName": "Giảng dạy Tiếng Nhật 1",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "PJ323",
+        "subjectName": "Tiếng Nhật kế toán 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PJ324",
+        "subjectName": "Tiếng Nhật kế toán 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PJ325",
+        "subjectName": "Tiếng Nhật kinh tế 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PJ401",
+        "subjectName": "Thực tập tiếng Nhật tại Nhật Bản",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "PJ403",
+        "subjectName": "Thực tập tiếng Nhật trong nước",
+        "credits": 6,
+        "coef": 1
+    },
+    {
+        "subjectCode": "PJ422",
+        "subjectName": "Giảng dạy Tiếng Nhật 2",
+        "credits": 2,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "PJ424",
+        "subjectName": "Tiếng Nhật kinh tế 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PJ425",
+        "subjectName": "Tiếng Nhật marketing 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PK301",
+        "subjectName": "Tiếng Hàn du lịch",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PK302",
+        "subjectName": "Ngôn ngữ học đối chiếu",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PK331",
+        "subjectName": "Thực tập tiếng Hàn",
+        "credits": 3,
+        "coef": 1
+    },
+    {
+        "subjectCode": "PK332",
+        "subjectName": "Ngôn ngữ và văn hoá thường nhật của Hàn Quốc",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PK352",
+        "subjectName": "Tiếng Hàn qua phim ảnh",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PK432",
+        "subjectName": "Thư tín thương mại Hàn Quốc",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PK441",
+        "subjectName": "Chữ Hán trong tiếng Hàn 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PK442",
+        "subjectName": "Tiếng Hàn kinh tế - thương mại",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PK443",
+        "subjectName": "Chữ Hán trong tiếng Hàn 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS200",
+        "subjectName": "Tâm lý học đại cương",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS201",
+        "subjectName": "Tâm lý học phát triển",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS202",
+        "subjectName": "Tâm lý học xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS210",
+        "subjectName": "Tâm lí học du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "PS303",
+        "subjectName": "Hành vi con người và môi trường xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS321",
+        "subjectName": "Tham vấn",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS322",
+        "subjectName": "Kỹ năng giao tiếp",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PS330",
+        "subjectName": "Tâm lý học sư phạm",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ301",
+        "subjectName": "Tiếng Trung báo chí",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ302",
+        "subjectName": "Ngôn ngữ học đối chiếu",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ341",
+        "subjectName": "Tiếng Trung du lịch 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ342",
+        "subjectName": "Tiếng Trung du lịch 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ431",
+        "subjectName": "Khẩu ngữ tiếng Trung thương mại 1",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ432",
+        "subjectName": "Khẩu ngữ tiếng Trung thương mại 2",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ442",
+        "subjectName": "Văn bản tiếng Trung thương mại",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "PZ451",
+        "subjectName": "Thực tập tiếng Trung Quốc",
+        "credits": 4,
+        "coef": 2
+    },
+    {
+        "subjectCode": "SB203",
+        "subjectName": "Kỹ năng đàm phán trong kinh doanh",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SC201",
+        "subjectName": "Kỹ năng giao tiếp và thuyết trình",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SC218",
+        "subjectName": "Quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SC219",
+        "subjectName": "Chuỗi cung ứng số",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SC304",
+        "subjectName": "Đàm phán trong kinh doanh trong logistics và quản lý chuỗi cung ứng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SC305",
+        "subjectName": "Mô phỏng Logistics và quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "SC305",
+        "subjectName": "Mô phỏng Logistics và quản lý chuỗi cung ứng",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "SC306",
+        "subjectName": "Quản trị vận hành",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SC312",
+        "subjectName": "Quản lý rủi ro chuỗi cung ứng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SC321",
+        "subjectName": "Quản lý mua hàng",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SC340",
+        "subjectName": "Quản lý đơn hàng và khách hàng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SC492",
+        "subjectName": "CĐTN: Chuỗi cung ứng",
+        "credits": 3,
+        "coef": 2.2
+    },
+    {
+        "subjectCode": "SE302",
+        "subjectName": "Công nghệ phần mềm",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SE312",
+        "subjectName": "Kiểm thử và đảm bảo chất lượng phần mềm",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SE380",
+        "subjectName": "Project",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SE422",
+        "subjectName": "Quản lý dự án phần mềm",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SE487",
+        "subjectName": "CĐTN: Phát triển phần mềm",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "SF320",
+        "subjectName": "Trị liệu gia đình",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SH111",
+        "subjectName": "Lịch sử văn minh thế giới",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SH113",
+        "subjectName": "Văn hóa Đông Nam Á",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SH122",
+        "subjectName": "Địa lý thế giới",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SH131",
+        "subjectName": "Pháp luật đại cương",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "SK201",
+        "subjectName": "Phương pháp nghiên cứu trong công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK210",
+        "subjectName": "Nhập môn công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK212",
+        "subjectName": "Đạo đức nghề công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK233",
+        "subjectName": "Công tác xã hội với cá nhân",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK241",
+        "subjectName": "Lý thuyết công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK301",
+        "subjectName": "Công tác xã hội trong bệnh viện",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK302",
+        "subjectName": "Công tác xã hội trong y tế công cộng",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK303",
+        "subjectName": "Công tác xã hội với sức khỏe tâm thần",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK304",
+        "subjectName": "Công tác xã hội với người có HIV/AIDS",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK305",
+        "subjectName": "Công tác xã hội với người lạm dụng các chất gây nghiện",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK320",
+        "subjectName": "Quản trị ngành công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK322",
+        "subjectName": "Công tác xã hội với quản lý thảm hoạ",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK323",
+        "subjectName": "Xây dựng và quản lý dự án trong công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK324",
+        "subjectName": "Kiểm huấn công tác xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK325",
+        "subjectName": "Công tác xã hội và hoạt động truyền thông",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK331",
+        "subjectName": "Thực hành công tác xã hội 1",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SK332",
+        "subjectName": "Thực hành công tác xã hội 2",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SK334",
+        "subjectName": "Công tác xã hội với nhóm",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK335",
+        "subjectName": "Phát triển cộng đồng 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK336",
+        "subjectName": "Thực hành công tác xã hội 3",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SK337",
+        "subjectName": "Phát triển cộng đồng 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK341",
+        "subjectName": "Công tác xã hội với người nghèo",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK342",
+        "subjectName": "Công tác xã hội trong trường học",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK343",
+        "subjectName": "Công tác xã hội trong hôn nhân và gia đình",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK345",
+        "subjectName": "Công tác xã hội với dân tộc ít người",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK346",
+        "subjectName": "Công tác xã hội với doanh nghiệp xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK350",
+        "subjectName": "Tội phạm học và công tác xã hội với nhóm tội phạm",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK351",
+        "subjectName": "Công tác xã hội với trẻ em và thanh thiếu niên",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK353",
+        "subjectName": "Công tác xã hội với người cao tuổi",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK354",
+        "subjectName": "Công tác xã hội với nhóm phụ nữ yếu thế",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK355",
+        "subjectName": "Công tác xã hội với trẻ em có hoàn cảnh đặc biệt",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK356",
+        "subjectName": "Công tác xã hội với người khuyết tật",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK357",
+        "subjectName": "Công tác xã hội trong phòng chống bạo lực gia đình",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK359",
+        "subjectName": "Sai lệch văn hóa, quản lý và phát triển văn hóa",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SK419",
+        "subjectName": "CĐTN: Lý luận về công tác xã hội",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "SK439",
+        "subjectName": "CĐTN: Thực hành trong công tác xã hội",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "SK460",
+        "subjectName": "Thực tập ngành công tác xã hội",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "SK499",
+        "subjectName": "KLTN ngành Công tác xã hội",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "SL201",
+        "subjectName": "Xã hội học pháp luật",
+        "credits": 2,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SM201",
+        "subjectName": "Phương pháp nghiên cứu khoa học",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SM201",
+        "subjectName": "Phương pháp nghiên cứu khoa học",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SM202",
+        "subjectName": "Phương pháp nghiên cứu khoa học trong kinh tế",
+        "credits": 3,
+        "coef": 1.4
+    },
+    {
+        "subjectCode": "SM310",
+        "subjectName": "Phương pháp nghiên cứu khoa học trong du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "SM321",
+        "subjectName": "Phương pháp nghiên cứu trong ngôn ngữ học ứng dụng",
+        "credits": 2,
+        "coef": 1.7
+    },
+    {
+        "subjectCode": "SO101",
+        "subjectName": "Xã hội học đại cương",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO211",
+        "subjectName": "Nhập môn nhân học xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO221",
+        "subjectName": "Gia đình học",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO232",
+        "subjectName": "An sinh xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO233",
+        "subjectName": "Dân số và phát triển bền vững",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO320",
+        "subjectName": "Phát triển học",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO322",
+        "subjectName": "Giới và phát triển",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO331",
+        "subjectName": "Chính sách xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "SO333",
+        "subjectName": "Sai lệch xã hội và kiểm soát xã hội",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC300",
+        "subjectName": "Mô hình hóa và mô phỏng",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC303",
+        "subjectName": "Thiết kế và quản trị mạng truyền thông",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC313",
+        "subjectName": "Kỹ thuật truyền dẫn",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC314",
+        "subjectName": "Kỹ thuật kết nối mạng",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC316",
+        "subjectName": "An ninh mạng truyền thông",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC418",
+        "subjectName": "Lập trình nhúng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC420",
+        "subjectName": "Thiết kế hệ thống mạng truyền thông",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC421",
+        "subjectName": "Dữ liệu lớn trong IOT",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC423",
+        "subjectName": "Mạng không dây đa bước",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC425",
+        "subjectName": "Lập trình ứng dụng IOT",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC426",
+        "subjectName": "Trí tuệ nhân tạo trong IOT",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TC427",
+        "subjectName": "Báo hiệu và điều khiển",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC429",
+        "subjectName": "Chất lượng dịch vụ mạng",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC430",
+        "subjectName": "Tính toán đám mây",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC431",
+        "subjectName": "Mạng cảm biến",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC432",
+        "subjectName": "Vô tuyến nhận thức",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC433",
+        "subjectName": "Quản lý dự án truyền thông và mạng máy tính",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC473",
+        "subjectName": "Quản lý mạng viễn thông",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TC487",
+        "subjectName": "CĐTN: Truyền thông và mạng máy tính",
+        "credits": 6,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "TC499",
+        "subjectName": "KLTN ngành Truyền thông và mạng máy tính",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "TG200",
+        "subjectName": "Địa lí du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TG210",
+        "subjectName": "Thiết kế chương trình du lịch",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "TG211",
+        "subjectName": "Điều hành chương trình du lịch",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "TG221",
+        "subjectName": "Các tôn giáo trên thế giới",
+        "credits": 2,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TG222",
+        "subjectName": "Hướng dẫn du lịch",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "TJ315",
+        "subjectName": "Dịch viết 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TJ316",
+        "subjectName": "Dịch viết 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TJ401",
+        "subjectName": "Tiếng Nhật du lịch và khách sạn 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TJ403",
+        "subjectName": "Tiếng Nhật du lịch và khách sạn 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TJ415",
+        "subjectName": "Dịch nói 1",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TJ416",
+        "subjectName": "Dịch nói 2",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM111",
+        "subjectName": "Phương pháp thu thập thông tin xã hội",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "TM121",
+        "subjectName": "Phóng sự",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM122",
+        "subjectName": "Lý thuyết và ngôn ngữ truyền thông",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM123",
+        "subjectName": "Lịch sử báo chí Việt Nam",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM131",
+        "subjectName": "Tin và viết tin",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM212",
+        "subjectName": "Luật pháp và đạo đức báo chí",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM291",
+        "subjectName": "Thực tập báo chí",
+        "credits": 3,
+        "coef": 2.6
+    },
+    {
+        "subjectCode": "TM312",
+        "subjectName": "Biên tập Báo chí đa phương tiện",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TM313",
+        "subjectName": "Kỹ năng tác nghiệp báo chí trên các thiết bị công nghệ",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "TM314",
+        "subjectName": "Tổ chức sản xuất chương trình phát thanh, truyền hình",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM412",
+        "subjectName": "Phóng sự điều tra",
+        "credits": 3,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "TM421",
+        "subjectName": "Viết bài PR",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TM422",
+        "subjectName": "Cơ sở lý luận báo chí",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR111",
+        "subjectName": "Nhập môn du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR222",
+        "subjectName": "Địa lí du lịch",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TR224",
+        "subjectName": "Điểm tuyến du lịch Việt Nam - Miền Bắc",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TR225",
+        "subjectName": "Điểm tuyến du lịch Việt Nam - Miền Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TR231",
+        "subjectName": "Pháp luật trong kinh doanh du lịch",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TR233",
+        "subjectName": "Ẩm thực Hàn Quốc",
+        "credits": 2,
+        "coef": 0.8
+    },
+    {
+        "subjectCode": "TR282",
+        "subjectName": "Kiến tập",
+        "credits": 4,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "TR315",
+        "subjectName": "Văn hóa du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR316",
+        "subjectName": "Quảng bá xúc tiến du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR322",
+        "subjectName": "Hệ thống di tích và danh thắng Việt Nam",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR324",
+        "subjectName": "Nghệ thuật đàm phán trong kinh doanh du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR326",
+        "subjectName": "Nghiệp vụ lữ hành & Hướng dẫn du lịch",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR327",
+        "subjectName": "Quản lý kinh doanh khách sạn",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR328",
+        "subjectName": "Quản lý kinh doanh nhà hàng",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "TR341",
+        "subjectName": "Du lịch văn hóa",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR342",
+        "subjectName": "Du lịch sinh thái",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR344",
+        "subjectName": "Du lịch cộng đồng",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR345",
+        "subjectName": "Phát triển du lịch bền vững",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "TR484",
+        "subjectName": "Thực tập tốt nghiệp",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "TR492",
+        "subjectName": "CĐTN: Đánh giá hiệu quả của kinh doanh khách sạn",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR493",
+        "subjectName": "CĐTN: Đánh giá hiệu quả của kinh doanh nhà hàng",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR494",
+        "subjectName": "CĐTN: Đánh giá nguồn nhân lực trong du lịch",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR495",
+        "subjectName": "CĐTN: Đánh giá chất lượng dịch vụ trong du lịch",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR496",
+        "subjectName": "CĐTN: Các điểm đến và điểm tham quan du lịch ở Việt Nam",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR497",
+        "subjectName": "CĐTN: Đánh giá hiệu quả kinh doanh lữ hành",
+        "credits": 3,
+        "coef": 2
+    },
+    {
+        "subjectCode": "TR499",
+        "subjectName": "KLTN ngành Quản trị dịch vụ du lịch - lữ hành",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "TZ499",
+        "subjectName": "KLTN ngành Ngôn ngữ Trung Quốc",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "VC102",
+        "subjectName": "Các tôn giáo Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC127",
+        "subjectName": "Địa lý Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC134",
+        "subjectName": "Việt Nam trong bối cảnh Đông Nam Á",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC136",
+        "subjectName": "Nhập môn khu vực học và Việt Nam học",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC200",
+        "subjectName": "Văn hoá Việt Nam",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC200",
+        "subjectName": "Văn hóa Việt Nam",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC204",
+        "subjectName": "Các dân tộc Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC206",
+        "subjectName": "Ngôn ngữ Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC207",
+        "subjectName": "Đặc trưng văn hóa vùng miền Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC208",
+        "subjectName": "Cơ sở văn hóa Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC209",
+        "subjectName": "Văn học Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC212",
+        "subjectName": "Văn hóa ẩm thực Việt Nam",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC214",
+        "subjectName": "Văn học hiện đại Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC217",
+        "subjectName": "Lịch sử Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC229",
+        "subjectName": "Thực tập thực tế",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "VC231",
+        "subjectName": "Hệ thống chính trị Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC232",
+        "subjectName": "Kinh tế Việt Nam",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC303",
+        "subjectName": "Văn hóa ứng xử của người Việt",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC309",
+        "subjectName": "Văn bản Hán Nôm Việt Nam",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VC319",
+        "subjectName": "Hán Nôm dành cho du lịch",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC429",
+        "subjectName": "Thực tập du lịch",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "VC431",
+        "subjectName": "CĐTN: Ứng xử giao tiếp ngôn ngữ - văn hóa của người Việt",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "VC433",
+        "subjectName": "CĐTN: Tiếp biến văn hóa",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "VC441",
+        "subjectName": "Nhập môn thư pháp chữ Hán 1",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC442",
+        "subjectName": "Nhập môn thư pháp chữ Hán 2",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC445",
+        "subjectName": "CĐTN: Tổ chức quản lý và điều hành tour",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "VC446",
+        "subjectName": "CĐTN: Du lịch thế giới",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "VC451",
+        "subjectName": "Phương pháp giảng dạy Tiếng Việt như một ngoại ngữ",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VC499",
+        "subjectName": "KLTN ngành Việt Nam học",
+        "credits": 6,
+        "coef": 3
+    },
+    {
+        "subjectCode": "VJ321",
+        "subjectName": "Ngữ âm học tiếng Nhật",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VJ322",
+        "subjectName": "Từ vựng học tiếng Nhật",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VJ425",
+        "subjectName": "Ngữ dụng học tiếng Nhật",
+        "credits": 2,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VL100",
+        "subjectName": "Ngôn ngữ học đại cương",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VL101",
+        "subjectName": "Tiếng Việt thực hành",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "VL102",
+        "subjectName": "Tiếng Việt thực hành",
+        "credits": 2,
+        "coef": 1
+    },
+    {
+        "subjectCode": "VP302",
+        "subjectName": "Cơ sở truyền thông báo chí",
+        "credits": 2,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VP307",
+        "subjectName": "Nghiệp vụ báo chí - xuất bản",
+        "credits": 3,
+        "coef": 1.6
+    },
+    {
+        "subjectCode": "VP309",
+        "subjectName": "Sự kiện và tổ chức sự kiện",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VP310",
+        "subjectName": "Đại cương quảng cáo",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VP312",
+        "subjectName": "Sản xuất chương trình phát thanh truyền hình",
+        "credits": 3,
+        "coef": 1.5
+    },
+    {
+        "subjectCode": "VP412",
+        "subjectName": "Thực tập văn hóa - truyền thông",
+        "credits": 4,
+        "coef": 1.8
+    },
+    {
+        "subjectCode": "VP424",
+        "subjectName": "CĐTN: Báo chí truyền thông Việt Nam đương đại",
+        "credits": 3,
+        "coef": 2.5
+    },
+    {
+        "subjectCode": "VP425",
+        "subjectName": "CĐTN: Báo chí truyền thông thế giới đương đại",
+        "credits": 3,
+        "coef": 2.5
+    }
+]

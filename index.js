@@ -5,6 +5,7 @@ const { Login } = require("./login");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
+const fs = require("fs");
 
 //import model
 const Year = require("./models/year");
@@ -51,6 +52,32 @@ const generateSecretKey = () => {
 
 const secretKey = generateSecretKey();
 
+//read data from json file
+app.get("/readFile", async (req, res) => {
+    const data = fs.readFileSync("2122.json");
+    const parseData = JSON.parse(data);
+    parseData.map(async (item) => {
+        const existSubject = await Subject.findOne({
+            subjectCode: item.subjectCode,
+        });
+
+        if (existSubject) {
+            existSubject.coef = item.coef;
+            existSubject.save();
+        } else {
+            const newSubject = new Subject({
+                subjectCode: item.subjectCode,
+                subjectName: item.subjectName,
+                credits: item.credits,
+                coef: item.coef,
+            });
+            await newSubject.save();
+        }
+    });
+    res.send(data);
+});
+
+//fetch data from dangkyhoc
 app.get("/tlu/getYear", async (req, res) => {
     const page = await Login();
     await page.goto(
