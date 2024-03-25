@@ -5,7 +5,9 @@
     "scripts": {
         "start": "node index.js",
         "test": "jest",
-        "heroku-postbuild": "mkdir ./.cache && mv /app/.cache/puppeteer ./.cache"
+        "build": "",
+        "heroku-postbuild": "mkdir ./.cache && mv /app/.cache/puppeteer ./.cache",
+        "vercel-build": "node ./build.js"
     },
     "keywords": [],
     "author": "TmQ",

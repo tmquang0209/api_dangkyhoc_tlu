@@ -12,17 +12,9 @@ if (process.env.AWS_LAMBDA_FUNCTION_VERSION) {
 
 async function Login() {
     let options = {
-        headless: true,
-        args: [
-            "--no-sandbox",
-            "--disable-setuid-sandbox",
-            "--single-process",
-            "--no-zygote",
-        ],
-        executablePath:
-            process.env.NODE_ENV === "production"
-                ? process.env.PUPPETEER_EXECUTABLE_PATH
-                : puppeteer.executablePath(),
+        headless: false,
+        args: ["--no-sandbox", "--disable-setuid-sandbox", "--single-process", "--no-zygote"],
+        executablePath: process.env.NODE_ENV === "production" ? process.env.PUPPETEER_EXECUTABLE_PATH : puppeteer.executablePath(),
     };
 
     const browser = await puppeteer.launch(options);
