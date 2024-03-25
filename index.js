@@ -19,6 +19,7 @@ const mergeClass = require("./components/mergeClass");
 const whitelist = [
     "https://dangkyhoc-drab.vercel.app",
     "https://dkh.toluu.site",
+    "https://dkh.tmquang.com"
 ];
 
 const corsOptions = {
