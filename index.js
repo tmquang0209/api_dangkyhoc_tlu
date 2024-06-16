@@ -6,6 +6,7 @@ const cors = require("cors");
 const jwt = require("jsonwebtoken");
 const crypto = require("crypto");
 const fs = require("fs");
+const cheerio = require("cheerio");
 
 //import model
 const Year = require("./models/year");
@@ -16,10 +17,7 @@ const Enroll = require("./models/enroll");
 const { json } = require("express");
 const mergeClass = require("./components/mergeClass");
 
-const whitelist = [
-    "https://dangkyhoc-drab.vercel.app",
-    "https://dkh.toluu.site",
-];
+const whitelist = ["https://dangkyhoc-drab.vercel.app", "https://dkh.toluu.site"];
 
 const corsOptions = {
     origin: function (origin, callback) {
@@ -34,7 +32,7 @@ const corsOptions = {
     optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
-app.use(cors(corsOptions));
+app.use(cors());
 app.use(json());
 
 mongoose
@@ -80,9 +78,7 @@ app.get("/readFile", async (req, res) => {
 //fetch data from dangkyhoc
 app.get("/tlu/getYear", async (req, res) => {
     const page = await Login();
-    await page.goto(
-        "https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx"
-    );
+    await page.goto("https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx");
 
     //get element
     const listYear = await page.evaluate(async () => {
@@ -115,18 +111,14 @@ app.get("/tlu/getYear", async (req, res) => {
 
 app.get("/tlu/getYearAndSemester", async (req, res) => {
     const page = await Login();
-    await page.goto(
-        "https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx"
-    );
+    await page.goto("https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx");
 
     const list = await page.evaluate(() => {
         const option = document.querySelectorAll("#ctl00_c_droNam > option");
         const arr = [];
         option.forEach(async (item) => {
             await page.select("select#ctl00_c_droNam", item.value);
-            const semesterOption = document.querySelectorAll(
-                "#ctl00_c_droHocki > option"
-            );
+            const semesterOption = document.querySelectorAll("#ctl00_c_droHocki > option");
             const semesterArr = [];
             semesterOption.forEach((semesterItem) => {
                 semesterArr.push({
@@ -150,9 +142,7 @@ app.get("/tlu/getSemester/:year", async (req, res) => {
         const year = req.params.year;
 
         // Navigate to the URL
-        await page.goto(
-            "https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx"
-        );
+        await page.goto("https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx");
 
         // Select the year in the dropdown
         await page.select("select#ctl00_c_droNam", year);
@@ -160,9 +150,7 @@ app.get("/tlu/getSemester/:year", async (req, res) => {
         // Wait for navigation to complete
         await page.waitForNavigation();
         const listSemester = await page.evaluate(async (year) => {
-            const semesterOption = document.querySelectorAll(
-                "#ctl00_c_droHocki > option"
-            );
+            const semesterOption = document.querySelectorAll("#ctl00_c_droHocki > option");
             const semester = [];
 
             semesterOption.forEach((item) => {
@@ -212,9 +200,7 @@ app.get("/tlu/getSchedule/:year/:semester", async (req, res) => {
     const { year, semester } = req.params;
     try {
         const page = await Login();
-        await page.goto(
-            "https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx"
-        );
+        await page.goto("https://dangkyhoc.thanglong.edu.vn/ToanTruong/TKBToanTruong.aspx");
 
         await page.select("select#ctl00_c_droNam", year);
         await page.waitForNavigation();
@@ -225,21 +211,9 @@ app.get("/tlu/getSchedule/:year/:semester", async (req, res) => {
         // Get the table data
         const tableData = await page.evaluate(() => {
             // Select the table element
-            const table = document.querySelector(
-                "#ctl00_c_gridThoiKhoaiBieuTR"
-            );
+            const table = document.querySelector("#ctl00_c_gridThoiKhoaiBieuTR");
 
-            const headers = [
-                "ID",
-                "SubID",
-                "SubName",
-                "ClassName",
-                "Day",
-                "Shift",
-                "Classroom",
-                "Credits",
-                "Teacher",
-            ];
+            const headers = ["ID", "SubID", "SubName", "ClassName", "Day", "Shift", "Classroom", "Credits", "Teacher"];
 
             // Get the table rows
             const rows = table.querySelectorAll("tr");
@@ -429,9 +403,7 @@ app.post("/api/personalSchedule", async (req, res) => {
         });
 
         if (getEnroll) {
-            const decodePassword = getEnroll.password
-                ? jwt.decode(getEnroll.password).password
-                : "";
+            const decodePassword = getEnroll.password ? jwt.decode(getEnroll.password).password : "";
 
             if (decodePassword != password) {
                 res.status(200).json({
@@ -661,11 +633,7 @@ app.post("/api/addPersonalSchedule", async (req, res) => {
     const { enrollId, password, schedule } = req.body;
 
     try {
-        const existEnroll = await Enroll.findOneAndUpdate(
-            { _id: enrollId, password: password },
-            { $set: { schedule } },
-            { new: true }
-        );
+        const existEnroll = await Enroll.findOneAndUpdate({ _id: enrollId, password: password }, { $set: { schedule } }, { new: true });
 
         if (existEnroll) {
             res.status(200).json({ message: "Save data successful." });
@@ -674,6 +642,75 @@ app.post("/api/addPersonalSchedule", async (req, res) => {
                 message: "Can't find enroll id or password is incorrect.",
             });
         }
+    } catch (err) {
+        console.error(err);
+        res.status(500).json({ message: "Unknown error." });
+    }
+});
+
+app.post("/api/calcGPA", async (req, res) => {
+    try {
+        const { studentCode } = req.body;
+        const formData = new FormData();
+        formData.append("search", studentCode);
+        formData.append("save", "");
+
+        const url = "https://tracuu.thanglong.edu.vn/diem-thi/";
+
+        const response = await fetch(url, {
+            method: "POST",
+            body: formData,
+        });
+
+        const data = await response.text();
+
+        if (data.includes("<tr>Không tìm thấy dữ liệu</tr>")) {
+            res.status(404).json({ message: "Student not found." });
+            return;
+        }
+
+        const $ = cheerio.load(data);
+        const table = $("table");
+        const rows = table.find("tr");
+        const result = [];
+        // calc gpa
+        let totalCredits = 0;
+        let totalScore = 0;
+        const ignoreSubject = ["PG121", "PG100"];
+
+        for (let index = 1; index < rows.length; index++) {
+            const row = $(rows[index]);
+            const cells = row.find("td");
+
+            const subjectCode = cells.eq(2).text();
+            const subjectName = cells.eq(3).text();
+            const creditsData = await Subject.findOne({ subjectCode });
+
+            if (creditsData) {
+                const credits = creditsData.credits;
+                const score = cells.eq(7).text();
+
+                if (ignoreSubject.includes(subjectCode) || score === "") continue;
+
+                totalCredits += Math.round(credits);
+                totalScore += Math.round(((credits * Math.round(parseFloat(score) * 10)) / 10) * 100) / 100;
+
+                result.push({
+                    subjectCode,
+                    subjectName,
+                    credits,
+                    score,
+                });
+            } else {
+                console.log(`Credits not found for subjectCode: ${subjectCode}`);
+            }
+        }
+
+        const gpa = Math.round((totalScore / totalCredits) * 100) / 100;
+
+        console.log("GPA:", gpa);
+
+        res.status(200).json({ gpa: gpa, data: result });
     } catch (err) {
         console.error(err);
         res.status(500).json({ message: "Unknown error." });

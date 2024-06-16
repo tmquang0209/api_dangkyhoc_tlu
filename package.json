@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "nodemon index.js",
         "test": "jest",
         "build": "",
         "heroku-postbuild": "mkdir ./.cache && mv /app/.cache/puppeteer ./.cache",
@@ -16,6 +16,7 @@
         "node": "^18"
     },
     "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
         "chrome-aws-lambda": "^6",
         "cors": "^2.8.5",
         "crypto": "^1.0.1",
@@ -24,6 +25,7 @@
         "fs": "^0.0.1-security",
         "jsonwebtoken": "^9.0.2",
         "mongoose": "^8.0.1",
+        "nodemon": "^3.1.2",
         "puppeteer": "^21.5.2",
         "puppeteer-core": "^6"
     },
