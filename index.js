@@ -17,12 +17,7 @@ const Enroll = require("./models/enroll");
 const { json } = require("express");
 const mergeClass = require("./components/mergeClass");
 
-const whitelist = [
-    "https://dangkyhoc-drab.vercel.app",
-    "https://dkh.toluu.site",
-    "https://dkh.tmquang.com",
-    "https://tmquang.com"
-];
+const whitelist = ["https://dangkyhoc-drab.vercel.app", "https://dkh.toluu.site", "https://dkh.tmquang.com", "https://tmquang.com"];
 
 const corsOptions = {
     origin: function (origin, callback) {
@@ -711,6 +706,8 @@ app.post("/api/calcGPA", async (req, res) => {
             }
         }
 
+        totalScore += 2 * 6.5 + 8 * 3 + 8.1 * 3 + 9.5 * 3 + 8.5 * 2 + 8.5 * 3 + 9 * 6 + 9 * 2;
+        totalCredits += 2 + 3 + 3 + 3 + 2 + 3 + 6 + 2;
         const gpa = Math.round((totalScore / totalCredits) * 100) / 100;
 
         console.log("GPA:", gpa);

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="mb-3">
+            <label for="student_code" class="form-label">Mã Sinh Viên</label>
+            <input type="text" name="student_code" id="student_code" class="form-control"
+                placeholder="Nhập mã sinh viên tại đây" />
+        </div>
+        <button id="submit" name="submit" type="button" class="btn btn-primary" data-bs-toggle="button"
+            aria-pressed="false" autocomplete="off">
+            Kiểm tra
+        </button>
+    </div>
+    <div class="container">
+        <div id="loading"></div>
+        <div id="result"></div>
+        <div id="gpaScore"></div>
+    </div>
+
+    <script>
+        const submit = document.getElementById('submit');
+        const studentCode = document.getElementById('student_code');
+        const loading = document.getElementById('loading');
+        const resultElement = document.getElementById('result');
+        const gpaScore = document.getElementById('gpaScore');
+
+        let ignoreSubject = [];
+        let scores = [];
+
+        submit.addEventListener('click', (e) => {
+            const studentCodeValue = studentCode.value;
+            if (studentCodeValue === '') {
+                alert('Vui lòng nhập mã sinh viên');
+                return;
+            }
+
+            submit.disable = true;
+            loading.innerHTML = '<div class="spinner-border text-primary" role="status"><span class="visually-hidden">Loading...</span></div>';
+
+            const myHeaders = new Headers();
+            myHeaders.append("Content-Type", "application/json");
+
+            const raw = JSON.stringify({
+                "studentCode": studentCodeValue
+            });
+
+            const requestOptions = {
+                method: "POST",
+                headers: myHeaders,
+                body: raw,
+                redirect: "follow"
+            };
+
+            fetch("https://api-tlu-524ce7cd06fa.herokuapp.com/api/calcGPA", requestOptions)
+                .then((response) => response.json())
+                .then((result) => {
+                    scores = result.data;
+                    resultElement.innerHTML = `
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col"></th>
+                                <th scope="col">Mã môn học</th>
+                                <th scope="col">Tên môn học</th>
+                                <th scope="col">Số tín chỉ</th>
+                                <th scope="col">Điểm</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${result.data.map((item) => `
+                                <tr>
+                                    <td><input type="checkbox" name="sub" data-code="${item.subjectCode}" checked/></td>
+                                    <td>${item.subjectCode}</td>
+                                    <td>${item.subjectName}</td>
+                                    <td>${item.credits}</td>
+                                    <td>${item.score}</td>
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    `;
+                    gpaScore.innerHTML = `<p>Điểm trung bình tích lũy: ${result.gpa}</p>`;
+                })
+                .catch((error) => {
+                    console.error(error)
+                    resultElement.innerText = 'Có lỗi xảy ra';
+                }).then(() => {
+                    const checkedSubject = document.querySelectorAll('input[name="sub"]');
+
+                    checkedSubject.forEach((item) => {
+                        item.addEventListener('change', (e) => {
+                            const checked = e.target.checked;
+                            const subjectCode = e.target.getAttribute('data-code');
+
+                            if (!checked) {
+                                ignoreSubject.push(subjectCode);
+                            } else {
+                                ignoreSubject = ignoreSubject.filter((item) => item !== e.target.getAttribute('data-code'));
+                            }
+
+                            const gpa = scores.filter((item) => !ignoreSubject.includes(item.subjectCode)).reduce((acc, item) => {
+                                return acc + item.credits * item.score;
+                            }, 0) / scores.filter((item) => !ignoreSubject.includes(item.subjectCode)).reduce((acc, item) => {
+                                return acc + item.credits;
+                            }, 0);
+                            gpaScore.innerHTML = `<p>Điểm trung bình tích lũy: ${Math.ceil(gpa * 100) / 100}</p>`;
+                        })
+                    })
+                }).finally(() => {
+                    loading.innerHTML = '';
+                    submit.disable = false;
+                });
+        })
+    </script>
+</body>
+
+</html>
